@@ -111,8 +111,11 @@ International Conference on Learning Representations
 Proceedings of the AAAI Conference on Artificial Intelligence
 Ecology and Society
 People and Nature
+Biological Invasions
 Ambio
 Geoscientific Model Development
 Big Earth Data
 Bioacoustics
 National Bureau of Economic Research
+OneEarth
+Remote Sensing
