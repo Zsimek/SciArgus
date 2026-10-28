@@ -40,3 +40,12 @@ Katherine Hayhoe
 Nichole Barger
 John Poulsen
 Geethen Singh
+Erin Poor
+Rebecca Chaplin-Kramer
+Rachel A. Neugarten
+Glenn Moncrieff
+Martin Jung
+Michelle J Sims
+
+
+
